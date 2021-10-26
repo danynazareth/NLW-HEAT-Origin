@@ -6,4 +6,4 @@ Nesse projeto foi implementadoo carachá do Do While usando conceitos básicos d
 
 
 
-![Crachá do while 2021](img/dany_dowhile.png?raw=true "Dany Crachá")
+![Crachá do while 2021](https://raw.githubusercontent.com/danynazareth/NLW-HEAT-Origin/main/img/dany_dowhile.PNG?raw=true "Dany Crachá")
