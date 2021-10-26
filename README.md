@@ -1,7 +1,6 @@
 # [NLW-2021] Next Level Week - Heat
 
-
-Nesse projeto foi implementadoo carachá do Do While usando conceitos básicos de HTML, CSS, JS.
+Projeto realizado no NLW HEAT na trilha Origin na qual foi implementadoo carachá do **Do While** usando conceitos básicos de HTML, CSS, JS.
 
 
 
